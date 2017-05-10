@@ -1,0 +1,2 @@
+CHANGED,C:\Users\speakingJoy\Desktop\Sairler\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\speakingjoy\sairler\Siir$override.class
+CHANGED,C:\Users\speakingJoy\Desktop\Sairler\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
